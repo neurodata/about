@@ -1,6 +1,6 @@
 ## Agreements
 
-We, the  NeuroData Family, each agree to all of the below commitments.  These agreements are designed to facilitate succeeding at our mission while in alignment with our values.  They are in a continual process of refinement; in life, work, and science, we experiment, learn, and grow.
+We, the  NeuroData Family (NDF), each agree to all of the below commitments.  These agreements are designed to facilitate succeeding at our mission while in alignment with our values.  They are in a continual process of refinement; in life, work, and science, we experiment, learn, and grow.
 
 1. [Agreements for all](#agreements-for-all)
 	1. [all in](#all-in)
@@ -24,7 +24,7 @@ We, the  NeuroData Family, each agree to all of the below commitments.  These ag
 
 #### All In
 
-Family and health take priority, but after that, our research does.  We are deeply committed to each other and our team, and have finite resources, so focusing our energy on our research goals is a key to our success. 
+Family and health take priority, but after that, our research does.  We are deeply committed to each other and our team, and have finite resources, so focusing our [energy](http://a.co/aPrBEkq) on our research goals is a key to our success. 
 
 #### Respect
 
@@ -35,59 +35,47 @@ We strive to make everyone feel safe and welcome, regardless of the physical, me
 
 #### Daily Presence
 
-Our experience dictates that in person communication and happenstance meetings dramatically increase our productivity.  At the same time, many of us need some time to think or write in quiet, often in isolation. Therefore, we have found that a balance of the two is optimal for everyone (so far).  The particular distribution of time alone vs. with the team is idiosyncratic per person. To respect the individual with the goals of the team we expect each member of NDF to spend several business hours each day on campus  unless JHU is closed or otherwise agreed upon. If you aren't going to be around  any given day, tell team and mark NeuroData calendar so the rest of the team knows. Your most valuable resource while on this team is the team itself.  
+Our experience dictates that in person communication and happenstance meetings dramatically increase our productivity.  At the same time, many of us need some time to think or write in quiet, often in isolation. Therefore, we have found that a balance of the two is optimal for everyone (so far).  The particular distribution of time alone vs. with the team is idiosyncratic per person. To respect the individual with the goals of the team we each agree to spend several business hours each day on campus unless JHU is closed or otherwise agreed upon. If you aren't going to be around  any given day, we agree to tell team and mark NeuroData calendar so the rest of the team knows. Your most valuable resource while on this team is the team itself.  
 
 
 #### Weekly Sub-Group Meetings  
 
  
-Every week,  each sub-group meets in person for 1-3 hours, with ~hourly breaks. The goals are:
+- Every week,  each sub-group agrees to meet in person for 1-3 hours, with ~hourly breaks. The goals are:
     - document past week's progress towards quarterly or annual goals
     - get feedback/mentorship from brilliant team of collaborators
     - make plan for next week
-
-
-To facilitate achieving & documenting these goals, every sub-group is expected to make slides each week, with contributions from all present members (deposited [here](https://drive.google.com/drive/folders/0By_9m7n8XhYKYlRUcDdoeVpjdTA?usp=sharing)).  
-
-Plan to work ~40 hrs on these goals, leaving time for other stuff as well. The intention is that everybody that attends a given sub-group meeting is a co-author on *all* manuscripts that result.  That means each person provides valuable/substantive feedback/effort/progress towards the goals. 
-
-
-
-The expectations per person are as follows:
-
-- Arrive on time
-- Each person has 1-10 slides including the following info:
-  - Title slide with name & date
-  - Bulleted list of last week's plan
-  - Bulleted list of last week's accomplishments 
-  - For each accomplished task, a research artefact documenting progress (a screencap, proof, figure, etc.)   
-  - Proposed list of commitments for the following week
-- Listen and provide constructive feedback to your teammates as appropriate
-
-       
-Each sub-group has a *lead*, the lead will be a senior team member, who is committed to (as appropriate):
-
-1. helping each teammate scope and complete the work, 
-2. making sure slides are ready and on time (feel free to delegate this one).
+- The intention is that everybody that attends a given sub-group meeting is a co-author on *all* manuscripts that result.  That means each person provides valuable/substantive feedback/effort/progress towards the goals. 
+- To facilitate achieving & documenting these goals, we each agree to the following for each meeting:
+	- Work 30-40 hrs on these goals, leaving time for other interesting stuff as it comes up. 
+	- Arrive on time
+	- Generate 1-10 slides (deposited in the appropriate subgroup's folder [here](https://drive.google.com/drive/folders/0By_9m7n8XhYKYlRUcDdoeVpjdTA?usp=sharing)) including the following info:
+  		- Title slide with name & date
+  		- Bulleted list of last week's plan
+  		- Bulleted list of last week's accomplishments 
+  		- For each accomplished task, a research artefact documenting progress (a screencap, proof, figure, etc.)   
+  		- Proposed list of commitments for the following week
+	- Listen and provide constructive feedback to your teammates as appropriate
+- Each sub-group has a *lead*, the lead will be a senior team member, who is committed to (as appropriate):
+	1. helping each teammate scope and complete the work, 
+	2. making sure slides are ready and on time (feel free to delegate this one).
 
 
 #### Weekly Lunches
 
-So we all get a more broad view of team activities. We have 1 hour for informal talks, Q&A, and lunch. Make sure you **practice** before getting in front of 20 people, because every minute you have implicted asked 20 other people to devote to you, so please be respectful of other people's time.
-
+So we all get a more broad view of team activities, we agree to have 1 hour for informal talks, Q&A, and lunch most weeks that school is open. We agree to  **practice** before getting in front of 20 people, because every minute you have implicted asked 20 other people to devote to you, so please be respectful of other people's time.
 
 
 #### Quarterly Checkins
 
 To facilitate more long-term/career guidance,  mutually providing *[radically candid](https://www.radicalcandor.com/)* feedback, 
 check alignment between personal and team goals in terms of quarterly, annual, and career goals, and re-align as appropriate,
-we will have quarterly check-ins.  In these meetings will we re-assess quarterly goals in light of progress and preferences. They are documented in asana in the ["school" project](https://app.asana.com/0/443556333059318/505224365170807).
+we agree to have quarterly check-ins.  In these meetings will we re-assess quarterly goals in light of progress and preferences. They are documented in asana in the ["school" project](https://app.asana.com/0/443556333059318/505224365170807).
 
 
 #### Semi-Annual Retreats
 
-To build community and deeper inter-personal connections, and to have fun, we have semi-annual retreats,  typically during the week before classes start each semester (that means 1 beach retreat, and 1 ski retreat probably).  The retreats will include a celebration of past successes, as well as a discussion of collective goals for the subsequent year. 
-
+To build community and deeper inter-personal connections, and to have fun, we agree to having semi-annual retreats,  typically during the week before classes start each semester (that means 1 beach retreat, and 1 ski retreat probably).  The retreats will include a celebration of past successes, as well as a discussion of collective goals for the subsequent year. 
 
 
 
@@ -95,10 +83,7 @@ To build community and deeper inter-personal connections, and to have fun, we ha
 
  
 
-During annual reviews to write down goals and assess trajectory, by filling out the following [questionnaire](https://goo.gl/forms/U5relYG8tV3fECqL2), and then scheduling a meeting with leadership to discuss.
-
-
-
+We agree to annual reviews, to document goals and assess trajectory, by filling out the following [questionnaire](https://goo.gl/forms/U5relYG8tV3fECqL2) annually, and then scheduling a meeting with leadership to discuss.
 
 
 
@@ -106,18 +91,12 @@ During annual reviews to write down goals and assess trajectory, by filling out 
 ### Aspirational Agreements
 
 
-#### Daily Standups
-
-To (1) keep us accountable to our daily goals, (2) improve our ability to assess how much energy different tasks take, (3) prioritize on the basis of our longer term goals, rather than fleeting distractions such as emails, (4) keep the team in the loop, so we can build upon one another's work, and (5) keep each other in alignment with our own goals and values, as well as the team's we often participate in [daily standups](https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum). 
-
-We usually do them in slack at [#standup](https://neurodata.slack.com/messages/standup/) slack channel. Joining is optional, the recommendation upon joining is "full body yes" to whatever commitment you make with regard to stand-ups. We typically state the degree to which we completed our previous commitment, and state our new commitment of the day.
-
 
 
 #### Impeccable Agreements
 
 
-On this team, we expect all our agreements to be impeccable. When we make an agreement, it should have the following properties:
+On this team, we agree that all our agreements to be impeccable. When we make an agreement, it will have the following properties:
 
 1. Document somewhere (e.g., [asana](https://app.asana.com) accessible to all stakeholders, including exactly the [definition of done](https://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod)), by whom, by when, possibly why 
 2. Discuss aiming for a full-body yes: 
@@ -135,16 +114,25 @@ On this team, we expect all our agreements to be impeccable. When we make an agr
  
 ### Agreements for Some
 
+#### Daily Standups
+
+To (1) keep us accountable to our daily goals, (2) improve our ability to assess how much energy different tasks take, (3) prioritize on the basis of our longer term goals, rather than fleeting distractions such as emails, (4) keep the team in the loop, so we can build upon one another's work, and (5) keep each other in alignment with our own goals and values, as well as the team's some of us agree to participate in [daily standups](https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum) on most days. 
+We typically state the degree to which we completed our previous commitment, and state our new commitment of the day.
+We usually do them in slack at [#standup](https://neurodata.slack.com/messages/standup/) slack channel.  
+
+
+
 ### Monthly Simplex Reports
 
 Our SIMPLEX grant requires that we submit month status reports (see  [overleaf](https://www.overleaf.com/read/nzsyvmykyvwn) for our up to date report).  
 The value to you is to show off how awesome you are to funders, so they start getting to know you, to practice writing short/concise reports on progress, and to have a record of our progress. 
+Anybody funded by SIMPLEX agrees to contribute to these monthly reports.
 
 
 
 ### Annual Funding Application
 
-All senior trainees (research faculty, postdocs, and senior graduate students) will be encouraged to be highly involved in at least one funding application to get practice and money. Make sure you have a target solicitation >2 months in advance.
+All senior trainees (research faculty, postdocs, and senior graduate students) agree to be involved in at least one funding application to get practice and money. Make sure you have a target solicitation >2 months in advance.
 
 
 ### Jovo Agreements
