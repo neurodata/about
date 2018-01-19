@@ -12,14 +12,14 @@
 To facilitate successful achievement of our [mission](mission.md), our projects have the following properties:
 
 1. answers an important neuroscientific question,
-2. solvies interesting technical (statistical and/or computational) challenges,
+2. solves interesting technical (statistical and/or computational) challenges,
 3. provides a resource to the community to build upon (e.g., R package, data source, etc.),
 4. while working closely with a dedicated scientific collaborator providing data & insight.
 
 
 
 ### Nanoscale: Ultrastructural Quantitative Anatomy
-   1. Scientifi Goal: Determine statistics of cortical ultrastructural neuroanatomy
+   1. Scientific Goal: Determine statistics of cortical ultrastructural neuroanatomy
    1. Technical Challenges:
         1. infra (kasthuri11): 
             - cloud raw images and downsampling operational
@@ -121,7 +121,7 @@ To facilitate successful achievement of our [mission](mission.md), our projects 
    
 ### Angstro: Spatial Transcriptomics
 
-   1. Scientifi Goal: Determine diversity of cell types in brain
+   1. Scientific Goal: Determine diversity of cell types in brain
    1. Technical Challenges: 
         1. infra: unclear 
         2. machine vision: n/a 
