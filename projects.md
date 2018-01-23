@@ -92,7 +92,7 @@ Some generic background that could be useful for many different projects in our 
         3. Interactive ndviz links to annotations overlaid on images
         4. Jupyter notebooks
         5. R/Python package for registration, cell detection, and tractography analysis 
-  1. Collaborators: karl deisseroth [1](https://www.sciencedirect.com/science/article/pii/S009286741630558X), [2](https://www.sciencedirect.com/science/article/pii/S009286741500851X) (stanford) & michaela gallager (jhu), alan yuile and [seyoun park](http://onlinelibrary.wiley.com/wol1/doi/10.1118/1.4811203/full) (jhu), [michael miller](https://link.springer.com/chapter/10.1007/978-3-319-66182-7_32) (jhu), [terastitcher](http://abria.github.io/TeraStitcher/), [n4itk](http://ieeexplore.ieee.org/document/5445030/authors?ctx=authors) 
+  1. Collaborators: karl deisseroth [1](https://www.sciencedirect.com/science/article/pii/S009286741630558X), [2](https://www.sciencedirect.com/science/article/pii/S009286741500851X) (stanford) & michaela gallager (jhu), alan yuille and [seyoun park](http://onlinelibrary.wiley.com/wol1/doi/10.1118/1.4811203/full) (jhu), [michael miller](https://link.springer.com/chapter/10.1007/978-3-319-66182-7_32) (jhu), [terastitcher](http://abria.github.io/TeraStitcher/), [n4itk](http://ieeexplore.ieee.org/document/5445030/authors?ctx=authors) 
   
 ### Macroscale: Connectome Coding
   1. Scientific Question: Reveal the latent structure of connectomes at various resolutions
@@ -136,7 +136,7 @@ Some generic background that could be useful for many different projects in our 
     1. Resources:
         4. Jupyter notebooks
         5. R/Python package for analysis 
-    1. Collaborators: ed lein (allen), mike hawrylycz (allen)
+    1. Collaborators: [ed lein](https://www.biorxiv.org/content/early/2018/01/19/239749) (allen), [mike hawrylycz](https://www.biorxiv.org/content/early/2017/12/06/229542) (allen)
     
     
  ### Multiscale Virtual Zebrafish
@@ -162,4 +162,4 @@ Some generic background that could be useful for many different projects in our 
         3. Interactive ndviz links to annotations overlaid on images
         4. Jupyter notebooks
         5. R/Python package for registration, cell detection, and tractography analysis 
- 1. Collaborators: florian engert (harvard) 
+ 1. Collaborators: florian engert [1](https://www.nature.com/articles/nature11057), [2](https://www.nature.com/nmeth/journal/v12/n11/abs/nmeth.3581.html) (harvard), [jeff lichtman](https://www.nature.com/articles/nature22356) (harvard)
