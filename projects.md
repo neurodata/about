@@ -17,6 +17,11 @@ To facilitate successful achievement of our [mission](mission.md), our projects 
 4. while working closely with a dedicated scientific collaborator providing data & insight.
 
 
+Some generic background that could be useful for many different projects in our lab:
+1. large spatial databases: [open connectome project](https://dl.acm.org/citation.cfm?doid=2484838.2484870),  [cosmos to connectomes](http://linkinghub.elsevier.com/retrieve/pii/S0896-6273(14)00746-6http://linkinghub.elsevier.com/retrieve/pii/S0896-6273(14)00746-6), [bossDB](https://www.biorxiv.org/content/early/2017/11/10/217745)
+2. scalable analytics: [knor for k-means](https://arxiv.org/abs/1606.08905), [FlashR](https://arxiv.org/abs/1604.06414), [FlashMatrix](https://arxiv.org/abs/1602.02864), [FlashEigen](https://arxiv.org/abs/1602.01421), [FlashGraph](https://arxiv.org/abs/1408.0500), 
+3.  statistics: [graph stat survey](https://arxiv.org/abs/1709.05454), [testing](https://arxiv.org/abs/1609.05148), [graph matching](https://arxiv.org/abs/1405.3133), [classification](https://arxiv.org/abs/1709.01233)
+4. cloud computing: [to the cloud](http://www.cell.com/neuron/abstract/S0896-6273(16)30783-8), [sic](https://academic.oup.com/gigascience/article/6/5/1/3062833)
 
 ### Nanoscale: Ultrastructural Quantitative Anatomy
    1. Scientific Goal: Determine statistics of cortical ultrastructural neuroanatomy
@@ -37,7 +42,7 @@ To facilitate successful achievement of our [mission](mission.md), our projects 
         3. Interactive ndviz links to annotations overlaid on images
         4. Jupyter notebooks
         5. R/Python package for analysis 
-    1. Collaborators: bobby kasthuri (argonne), albert cardona & marta zlatic (janelia), davi bock (janelia)    
+    1. Collaborators & references: [bobby kasthuri](http://www.cell.com/cell/pdfExtended/S0092-8674(15)00824-7) (argonne), [albert cardona & marta zlatic](https://www.nature.com/articles/nature23455) (janelia), [davi bock](https://www.nature.com/articles/nature09802) (janelia)    
 
 ### Microscale: Synapse Diversity
   1. Scientific Goal: Discover synapse taxonomies across conditions
@@ -65,7 +70,7 @@ To facilitate successful achievement of our [mission](mission.md), our projects 
         3. Interactive ndviz links to annotations overlaid on images
         4. Jupyter notebooks
         5. R/Python package for clustering analysis 
-    1. Collaborators: stephen smith (allen), rick huganir (jhu)
+    1. Collaborators: stephen smith [1](http://www.jneurosci.org/content/35/14/5792.short), [2](https://www.frontiersin.org/articles/10.3389/fnana.2015.00100/full), [3](http://www.cell.com/neuron/abstract/S0896-6273(10)00766-X) (allen), rick huganir (jhu), [guillermo sapiro](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005493) (duke)
     
 ### Mesoscale: Cellular Engrams
  1. Scientific Question: Uncover the principles of cellular resolution brain-wide neural circuits 
@@ -87,7 +92,7 @@ To facilitate successful achievement of our [mission](mission.md), our projects 
         3. Interactive ndviz links to annotations overlaid on images
         4. Jupyter notebooks
         5. R/Python package for registration, cell detection, and tractography analysis 
-  1. Collaborators: karl deisseroth (stanford) & michaela gallager (jhu)
+  1. Collaborators: karl deisseroth [1](https://www.sciencedirect.com/science/article/pii/S009286741630558X), [2](https://www.sciencedirect.com/science/article/pii/S009286741500851X) (stanford) & michaela gallager (jhu), alan yuile and [seyoun park](http://onlinelibrary.wiley.com/wol1/doi/10.1118/1.4811203/full) (jhu), [michael miller](https://link.springer.com/chapter/10.1007/978-3-319-66182-7_32) (jhu), [terastitcher](http://abria.github.io/TeraStitcher/), [n4itk](http://ieeexplore.ieee.org/document/5445030/authors?ctx=authors) 
   
 ### Macroscale: Connectome Coding
   1. Scientific Question: Reveal the latent structure of connectomes at various resolutions
@@ -116,7 +121,7 @@ To facilitate successful achievement of our [mission](mission.md), our projects 
         3. LIMS for navigating data
         4. Jupyter notebooks
         5. R/Python package for analysis 
-   1. Collaborators: alex badea (duke), mike milham (cmi), vince calhoun (mrn), kent kiehl (mrn), bruce rosen (martinos)
+   1. Collaborators: [alex badea](https://academic.oup.com/cercor/article/25/11/4628/2367615) (duke), [mike milham](https://www.biorxiv.org/content/early/2017/06/13/149369) (cmi), vince calhoun (mrn), [kent kiehl](https://www.amazon.com/Psychopath-Whisperer-Science-Without-Conscience/dp/0770435866) (mrn), bruce rosen [1](https://www.sciencedirect.com/science/article/pii/S1053811915007983?via%3Dihub), (martinos)
     
    
 ### Angstro: Spatial Transcriptomics
