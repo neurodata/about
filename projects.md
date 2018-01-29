@@ -91,7 +91,7 @@ Some generic background that could be useful for many different projects in our 
         2. Annotation data in cloud
         3. Interactive ndviz links to annotations overlaid on images
         4. Jupyter notebooks
-        5. R/Python package for registration, cell detection, and tractography analysis 
+        5. R/Python package for registration, cell detection, and [tractography analysis](https://link.springer.com/article/10.1007/s12021-016-9310-0)
   1. Collaborators: karl deisseroth [1](https://www.sciencedirect.com/science/article/pii/S009286741630558X), [2](https://www.sciencedirect.com/science/article/pii/S009286741500851X) (stanford) & michaela gallager (jhu), alan yuille and [seyoun park](http://onlinelibrary.wiley.com/wol1/doi/10.1118/1.4811203/full) (jhu), [michael miller](https://link.springer.com/chapter/10.1007/978-3-319-66182-7_32) (jhu), [terastitcher](http://abria.github.io/TeraStitcher/), [n4itk](http://ieeexplore.ieee.org/document/5445030/authors?ctx=authors) 
   
 ### Macroscale: Connectome Coding
