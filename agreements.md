@@ -5,6 +5,7 @@ We, the  NeuroData Family (NDF), each agree to all of the below commitments.  Th
 1. [Agreements for all](#agreements-for-all)
 	1. [all in](#all-in)
   	1. [respect](#respect)
+	1. [honesty and safety](#honesty-and-safety)
   	1. [daily presence](#daily-presence)
   	1. [weekly sub-group meeting](#weekly-sub-group-meetings) 
   	1. [weekly lunches](#weekly-lunches)
@@ -24,17 +25,21 @@ We, the  NeuroData Family (NDF), each agree to all of the below commitments.  Th
 
 #### All In
 
-Family and health take priority, but after that, our research does.  We are deeply committed to each other and our team, and have finite resources, so focusing our [energy](http://a.co/aPrBEkq) on our research goals is a key to our success. 
+We agree that family and health take priority, but after that, our research does.  We are deeply committed to each other and our team, and have finite resources, so focusing our [energy](http://a.co/aPrBEkq) on our research goals is a key to our success. 
 
 #### Respect
 
-We strive to make everyone feel safe and welcome, regardless of the physical, mental, emotional, or spiritual state. Specifically, we follow the [JHU Code of Conduct](https://studentaffairs.jhu.edu/policies/student-code/) at all times.
+We agree to make everyone feel welcome, regardless of the physical, mental, emotional, or spiritual state. Specifically, we follow the [JHU Code of Conduct](https://studentaffairs.jhu.edu/policies/student-code/) at all times.
 
 
+#### Honesty and Safety
+
+We agree to speak with one another [honestly](http://www.toltecspirit.com/four-agreements/impeccable-word/), while at the same time maintaining [psychological safety](http://www.businessinsider.com/google-spent-years-studying-effective-teams-this-is-what-they-found-2018-1) (to [avoid crises](https://qz.com/1039957/the-ultimate-case-against-using-shame-as-a-management-tactic/?mc_cid=c51790d677&mc_eid=a41acedced)) for all team members at all times. 
 
 
 #### Daily Presence
 
+We agree to be around the lab most working hours.
 Our experience dictates that in person communication and happenstance meetings dramatically increase our productivity.  At the same time, many of us need some time to think or write in quiet, often in isolation. Therefore, we have found that a balance of the two is optimal for everyone (so far).  The particular distribution of time alone vs. with the team is idiosyncratic per person. To respect the individual with the goals of the team we each agree to spend several business hours each day on campus unless JHU is closed or otherwise agreed upon. If you aren't going to be around  any given day, we agree to tell team and mark NeuroData calendar so the rest of the team knows. Your most valuable resource while on this team is the team itself.  
 
 
@@ -63,12 +68,12 @@ Our experience dictates that in person communication and happenstance meetings d
 
 #### Weekly Lunches
 
-So we all get a more broad view of team activities, we agree to have 1 hour for informal talks, Q&A, and lunch most weeks that school is open. We agree to  **practice** before getting in front of 20 people, because every minute you have implicted asked 20 other people to devote to you, so please be respectful of other people's time.
+So we all get a more broad view of team activities, we agree to have 1 hour for informal talks, Q&A, and lunch most weeks that school is open. We agree to  **practice** before getting in front of 10-20 people, because every minute you speak you have implicted asked many other people to devote to you, so please be respectful of other people's time.
 
 
 #### Quarterly Checkins
 
-To facilitate more long-term/career guidance,  mutually providing *[radically candid](https://www.radicalcandor.com/)* feedback, 
+To facilitate more long-term/career guidance,  mutually providing *[radically candid](http://firstround.com/review/on-receiving-and-truly-hearing-radical-candor/?ct=t(How_Does_Your_Leadership_Team_Rate_12_3_2015)* feedback, 
 check alignment between personal and team goals in terms of quarterly, annual, and career goals, and re-align as appropriate,
 we agree to have quarterly check-ins.  In these meetings will we re-assess quarterly goals in light of progress and preferences. They are documented in asana in the ["school" project](https://app.asana.com/0/443556333059318/505224365170807).
 
