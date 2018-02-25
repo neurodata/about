@@ -21,7 +21,7 @@ Some generic background that could be useful for many different projects in our 
 1. large spatial data: [open connectome project](https://dl.acm.org/citation.cfm?doid=2484838.2484870),  [cosmos to connectomes](http://linkinghub.elsevier.com/retrieve/pii/S0896-6273(14)00746-6http://linkinghub.elsevier.com/retrieve/pii/S0896-6273(14)00746-6), [bossDB](https://www.biorxiv.org/content/early/2017/11/10/217745)
 2. scalable analytics: [knor for k-means](https://arxiv.org/abs/1606.08905), [FlashR](https://arxiv.org/abs/1604.06414), [FlashMatrix](https://arxiv.org/abs/1602.02864), [FlashEigen](https://arxiv.org/abs/1602.01421), [FlashGraph](https://arxiv.org/abs/1408.0500), 
 3.  statistics: [graph stat survey](https://arxiv.org/abs/1709.05454), [testing](https://arxiv.org/abs/1609.05148), [graph matching](https://arxiv.org/abs/1405.3133), [classification](https://arxiv.org/abs/1709.01233), [random forest](https://arxiv.org/abs/1506.03410)
-4. cloud computing: [to the cloud](http://www.cell.com/neuron/abstract/S0896-6273(16)30783-8), [sic](https://academic.oup.com/gigascience/article/6/5/1/3062833), [gigantum](http://gigantum.io/)
+4. cloud computing: [to the cloud](http://www.cell.com/neuron/abstract/S0896-6273(16)30783-8), [sic](https://academic.oup.com/gigascience/article/6/5/1/3062833)
 
 ### Nanoscale: Ultrastructural Quantitative Anatomy
    1. Scientific Goal: Determine statistics of cortical ultrastructural neuroanatomy
