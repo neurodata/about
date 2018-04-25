@@ -17,6 +17,7 @@ Given that caveat, we are developing and/or enhancing a number of open source to
 
 - [boss](https://github.com/neurodata/boss): a AWS deployed spatial database to store and manage large image volumes
 - [neuroglancer](https://github.com/neurodata/ndviz): a Web-service to visualize these data
+- [cloud_volume](https://github.com/seung-lab/cloud-volume): a client for reading and writing to Neuroglancer precomputed volumes on cloud services.
 - [ndpush](https://github.com/neurodata/ndpush): a command-line interface to put data into our cloud storage
 - [ndpull](https://github.com/neurodata/ndpull): a command-line interface to pull data from our cloud storage
 - [ndweb](https://github.com/neurodata/ndwebtools): a Web-service that provides updated links to manage and visualize all the data in our cloud
@@ -36,18 +37,19 @@ We currently primarily focus our work on a few disparate experimental paradigms 
 
 1. consistent - the estimates from the pipelines converge to the true unknown values,
 2. efficient - estimates converge to small errors with relatively little data, 
-2. stable -  minor perturbations to the data only induce minor changes to the estimands, and
-3. robust - large outliers only have minor impact on the estimands.
-4. model-based but data-driven - incorporates biophysical knowledge (e.g., as priors or constraints) but does not limit performance to rigid biophysical assumptions about the data generative process, rather, allows the inferences to be flexible with respect to the domain knowledge.
+3. stable -  minor perturbations to the data only induce minor changes to the estimands, and
+4. robust - large outliers only have minor impact on the estimands.
+5. model-based and data-driven - incorporates biophysical knowledge (e.g., as priors or constraints) but does not limit performance to rigid biophysical assumptions about the data generative process, rather, allows the inferences to be flexible with respect to the domain knowledge.
 
 We also endeavor to make our pipelines have the following kinds of computational properties:
 
-4. expedient - requires less time to run than to collect the data
-5. parallelized - given more computational resources, will run faster
-6. portable - can run on multiple different computers, operating systems, etc.
-7. turn-key - does not require manual tuning to apply to a new dataset collected using the "same" experimental protocol
-8. free and open source - so anybody can access it 
-9. cloud deployed - runs on our cloud so we and others can run it easily
+6. expedient - requires less time to run than to collect the data
+7. parallelized - given more computational resources, will run faster
+8. portable - can run on multiple different computers, operating systems, etc.
+9. turn-key - does not require manual tuning to apply to a new dataset collected using the "same" experimental protocol
+10. cloud deployed - runs on our cloud so we and others can run it easily
+11. free and open source - so anybody can access it 
+
 
 We are building pipelines with the above properties for the following disparate kinds of data:
 
