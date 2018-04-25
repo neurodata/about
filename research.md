@@ -4,6 +4,7 @@ We have three primary research threads, each of them serving our connectome codi
 - [pipelines](#pipelines)
 - [statistics](#statistics)
 - [neurobiology](#neurobiology)
+- [summary](#summary)
 
 ### Infrastructure
 #### Big NeuroData Storage, Management and Visualization
