@@ -1,6 +1,12 @@
 We have three primary research threads, each of them serving our connectome coding mission:
 
-### Big NeuroData Storage, Management and Visualization
+- [infrastructure]
+- [pipelines]
+- [statistics]
+- [questions]
+
+### Infrastructure
+#### Big NeuroData Storage, Management and Visualization
 
 The raw data that we utilize to answer connectome coding questions often start as multidimensional, multimodal, and multiscale images. 
 Typically these images are at least 3D, but often they are 4D or 5D, and often each image includes trillions of voxels requiring terabytes of storage. 
@@ -31,7 +37,8 @@ The basic architecture and motivation for these tools are outlined in the follow
 - R. Burns et al. The Open Connectome Project Data Cluster: Scalable Analysis and Vision for High-Throughput Neuroscience. Proceedings of the 25th International Conference on Scientific and Statistical Database Management, 2013.
 - J. T. Vogelstein Q&A: What is the Open Connectome Project?. Neural Systems & Circuits, (1)1:16, 2011.
 
-### Scalable and Statistically Princpled Pipelines for Analysis of NeuroData 
+### Pipelines
+#### Scalable and Statistically Princpled Pipelines for Analysis of NeuroData 
 
 We currently primarily focus our work on a few disparate experimental paradigms in neurobiology.  For each, we are building pipelines, which we think of statistical tools with computational implementations.   Because they are statistical in nature, that means we think of them as using data to estimate the value of parameters of the underlying neurobiology. Based on that, we endeavor to make our pipelines have the following kinds of statistical guarantees:
 
@@ -53,22 +60,19 @@ We also endeavor to make our pipelines have the following kinds of computational
 
 We are building pipelines with the above properties for the following disparate kinds of data:
 
-- **nanoscale** electron microscopy data
+- **nanoscale** electron microscopy [data](https://neurodata.io/data/) 
   - Experiments: collaborators (and papers of theirs) studying this kind of data include [bobby](http://www.cell.com/cell/pdfExtended/S0092-8674(15)00824-7) (argonne), [albert cardona & marta zlatic](https://www.nature.com/articles/nature23455) (janelia), [davi bock](https://www.nature.com/articles/nature09802) (janelia).  
-  - [Data](https://neurodata.io/data/) 
   - Pipeline: We have a somewhat antiquated [pipeline](https://www.frontiersin.org/articles/10.3389/fninf.2015.00020/full) for these data, though [sebastian seung's group](http://seunglab.org/) (amongst others) is currently building the state of the art work here.      
-- **microscale** superresolution light microscopy data
+- **microscale** superresolution light microscopy [data](https://neurodata.io/project/synaptomes/)
   - Experiments: collaborators (and papers of theirs) studying this kind of data include: stephen smith [1](http://www.jneurosci.org/content/35/14/5792.short), [2](https://www.frontiersin.org/articles/10.3389/fnana.2015.00100/full), [3](http://www.cell.com/neuron/abstract/S0896-6273(10)00766-X) (allen), rick huganir (jhu). 
-  - [Data](https://neurodata.io/project/synaptomes/)
   - Pipeline: Our current (in progress) pipeline includes synapse detection [guillermo sapiro](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005493) (duke), and analysis of the resulting matrices using [meda](https://github.com/neurodata/meda).
-- **mesoscale** light microscopy data
+- **mesoscale** light microscopy [data]](https://neurodata.io/data/tomer15/)
   - Experiments: These data come either from karl deisseroth [1](https://www.sciencedirect.com/science/article/pii/S009286741630558X), [2](https://www.sciencedirect.com/science/article/pii/S009286741500851X) (stanford) or michaela gallager (jhu). 
-  - [Data](https://neurodata.io/data/tomer15/)
   - Pipeline: includes [terastitcher](http://abria.github.io/TeraStitcher/) for stitching the images together to form volumes and [ndreg](https://github.com/neurodata/ndreg) for image corrections and registration to an atlas
-- **macroscale** magnetic resonance imaging data
+- **macroscale** magnetic resonance imaging [data](https://neurodata.io/project/projectomes/)
   - Experiments: Including both functional and diffusion magnetic resonance imaging, we are primarily collaborating with mike milham [healthy brain network](https://www.nature.com/articles/sdata2017181), [NKI enhanced](https://www.frontiersin.org/articles/10.3389/fnins.2012.00152/full) (child mind institute), bruce rosen's human lifespan data, and kent kiehl's [psychopathy](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.24028) data
-  - [Data](https://neurodata.io/project/projectomes/)
   - Pipeline: [ndmg](https://github.com/neurodata/ndmg) processes s/f/d-MRI data to estimate and analyze connectomes (see [draft](https://www.biorxiv.org/content/early/2018/04/24/188706) for details).
   
-  
+ ### Statistics
+ #### Statistical Methods to Estimate, Test, and Model Neurobiology
 
