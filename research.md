@@ -1,9 +1,9 @@
 We have three primary research threads, each of them serving our connectome coding mission:
 
-- [infrastructure]
-- [pipelines]
-- [statistics]
-- [questions]
+- [infrastructure](#infrastructure)
+- [pipelines](#pipelines)
+- [statistics](#statistics)
+- [neurobiology](#neurobiology)
 
 ### Infrastructure
 #### Big NeuroData Storage, Management and Visualization
