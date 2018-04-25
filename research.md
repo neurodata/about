@@ -32,12 +32,10 @@ The basic architecture and motivation for these tools are outlined in the follow
 
 ### Scalable and Statistically Princpled Pipelines for Analysis of NeuroData 
 
-We currently primarily focus our work on a few disparate experimental paradigms in neurobiology. 
-For each, we are building pipelines, which we think of statistical tools with computational implementations.  
-Because they are statistical in nature, that means we think of them as using data to estimate the value of parameters of the underlying neurobiology.
-Based on that, we endeavor to make our pipelines have the following kinds of statistical guarantees:
+We currently primarily focus our work on a few disparate experimental paradigms in neurobiology.  For each, we are building pipelines, which we think of statistical tools with computational implementations.   Because they are statistical in nature, that means we think of them as using data to estimate the value of parameters of the underlying neurobiology. Based on that, we endeavor to make our pipelines have the following kinds of statistical guarantees:
 
 1. consistent - the estimates from the pipelines converge to the true unknown values,
+2. efficient - estimates converge to small errors with relatively little data, 
 2. stable -  minor perturbations to the data only induce minor changes to the estimands, and
 3. robust - large outliers only have minor impact on the estimands.
 4. model-based but data-driven - incorporates biophysical knowledge (e.g., as priors or constraints) but does not limit performance to rigid biophysical assumptions about the data generative process, rather, allows the inferences to be flexible with respect to the domain knowledge.
