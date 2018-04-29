@@ -24,7 +24,7 @@ Our research interests are perhaps best summarized by a matrix,  where the rows 
   - Collaborators: stephen smith [1](http://www.jneurosci.org/content/35/14/5792.short), [2](https://www.frontiersin.org/articles/10.3389/fnana.2015.00100/full), [3](http://www.cell.com/neuron/abstract/S0896-6273(10)00766-X) (allen), rick huganir (jhu). 
 - **mesoscale** light microscopy [data]](https://neurodata.io/data/tomer15/)
   - Goal: Decipher the principles of cellular resolution brain-wide neural circuits (cellular engrams)
-  - Collaborators: karl deisseroth [1](https://www.sciencedirect.com/science/article/pii/S009286741630558X), [2](https://www.sciencedirect.com/science/article/pii/S009286741500851X) (stanford) and michaela gallager (jhu). 
+  - Collaborators: karl deisseroth [1](https://www.sciencedirect.com/science/article/pii/S009286741630558X), [2](https://www.sciencedirect.com/science/article/pii/S009286741500851X) (stanford), [alex badea](https://academic.oup.com/cercor/article/25/11/4628/2367615) (duke), and michaela gallager (jhu). 
 - **macroscale** magnetic resonance imaging [data](https://neurodata.io/project/projectomes/)
   - Goal: Reveal the connectome code, that is, the latent structure of brains determined by genetics and experience), at various resolutions, partially by mitigating batch effects across studies
   - Collaborators: mike milham [healthy brain network](https://www.nature.com/articles/sdata2017181), [NKI enhanced](https://www.frontiersin.org/articles/10.3389/fnins.2012.00152/full) (child mind institute), bruce rosen's human lifespan data, and kent kiehl's [psychopathy](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.24028) data
@@ -49,8 +49,9 @@ For each project, the goals are to build tools that are:
 1. easy 
 2. fast
 3. inexpensive
+4. feature-rich
 
-Any pair of the above 3 goals are mutually competing with one another, so we must make a number of trade-offs. 
+Any 3 of the above goals are mutually competing with one another, so we must make a number of trade-offs. 
 Given that caveat, we are developing and/or enhancing a number of open source tools, including:
 
 - [boss](https://github.com/neurodata/boss): a AWS deployed spatial database to store and manage large image volumes
