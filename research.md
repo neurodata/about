@@ -1,6 +1,6 @@
 ### Intro
 
-Our research interests are perhaps best summarized by a matrix,  where the rows indicate the the kinds of challenges we face and the columns indicate the motivating scientific questions.
+Our research projects are perhaps best summarized by a matrix,  where the rows indicate the the kinds of challenges we face and the columns indicate the spatial scales of experimental data available to us.
 
 
 
@@ -24,7 +24,11 @@ Our research interests are perhaps best summarized by a matrix,  where the rows 
   - Collaborators: stephen smith [1](http://www.jneurosci.org/content/35/14/5792.short), [2](https://www.frontiersin.org/articles/10.3389/fnana.2015.00100/full), [3](http://www.cell.com/neuron/abstract/S0896-6273(10)00766-X) (allen), rick huganir (jhu). 
 - **mesoscale** light microscopy [data]](https://neurodata.io/data/tomer15/)
   - Goal: Decipher the principles of cellular resolution brain-wide neural circuits (cellular engrams)
-  - Collaborators: karl deisseroth [1](https://www.sciencedirect.com/science/article/pii/S009286741630558X), [2](https://www.sciencedirect.com/science/article/pii/S009286741500851X) (stanford), [alex badea](https://academic.oup.com/cercor/article/25/11/4628/2367615) (duke), and michaela gallager (jhu). 
+  - Collaborators: 
+   - CLARITY: karl deisseroth [1](https://www.sciencedirect.com/science/article/pii/S009286741630558X), [2](https://www.sciencedirect.com/science/article/pii/S009286741500851X) (stanford), 
+   - Magnetic Resonance Microscopy: [alex badea](https://academic.oup.com/cercor/article/25/11/4628/2367615) (duke), 
+   - iDisco: michaela gallager (jhu),
+   - X-ray Microtomography: [bobby and eva](http://www.eneuro.org/content/early/2017/09/25/ENEURO.0195-17.2017)
 - **macroscale** magnetic resonance imaging [data](https://neurodata.io/project/projectomes/)
   - Goal: Reveal the connectome code, that is, the latent structure of brains determined by genetics and experience), at various resolutions, partially by mitigating batch effects across studies
   - Collaborators: mike milham [healthy brain network](https://www.nature.com/articles/sdata2017181), [NKI enhanced](https://www.frontiersin.org/articles/10.3389/fnins.2012.00152/full) (child mind institute), bruce rosen's human lifespan data, and kent kiehl's [psychopathy](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.24028) data
@@ -63,11 +67,11 @@ Given that caveat, we are developing and/or enhancing a number of open source to
 
 The basic architecture and motivation for these tools are outlined in the following open access articles:
 
-- R. Burns et al. A Community-Developed Open-Source Computational Ecosystem for Big Neuro Data. arXiv:1804.02835, 2018.
-- D. Kleissas et al. The Block Object Storage Service (bossDB): A Cloud-Native Approach for Petascale Neuroscience Discovery. bioRxiv:217745, 2017.
-- J. T. Vogelstein et al. To the Cloud! A Grassroots Proposal to Accelerate Brain Science Discovery. Neuron, (3)92:622-627, 2016.
-- R. Burns, J. T. Vogelstein and A. S. Szalay From cosmos to connectomes: The evolution of data-intensive science. Neuron, (6)83:1249-1252, 2014.
-- R. Burns et al. The Open Connectome Project Data Cluster: Scalable Analysis and Vision for High-Throughput Neuroscience. Proceedings of the 25th International Conference on Scientific and Statistical Database Management, 2013.
+- R. Burns et al. [A Community-Developed Open-Source Computational Ecosystem for Big Neuro Data.](https://arxiv.org/abs/1804.02835) arXiv:1804.02835, 2018.
+- D. Kleissas et al. [The Block Object Storage Service (bossDB): A Cloud-Native Approach for Petascale Neuroscience Discovery.]((https://www.biorxiv.org/content/early/2017/11/10/217745) bioRxiv:217745, 2017.
+- J. T. Vogelstein et al. [To the Cloud! A Grassroots Proposal to Accelerate Brain Science Discovery.](http://www.cell.com/neuron/abstract/S0896-6273(16)30783-8) Neuron, (3)92:622-627, 2016.
+- R. Burns, J. T. Vogelstein and A. S. Szalay [From cosmos to connectomes: The evolution of data-intensive science.](http://linkinghub.elsevier.com/retrieve/pii/S0896-6273(14)00746-6http://linkinghub.elsevier.com/retrieve/pii/S0896-6273(14)00746-6) Neuron, (6)83:1249-1252, 2014.
+- R. Burns et al. [The Open Connectome Project Data Cluster: Scalable Analysis and Vision for High-Throughput Neuroscience.](https://dl.acm.org/citation.cfm?doid=2484838.2484870) Proceedings of the 25th International Conference on Scientific and Statistical Database Management, 2013.
 - J. T. Vogelstein Q&A: What is the Open Connectome Project?. Neural Systems & Circuits, (1)1:16, 2011.
 
 ### Pipelines
@@ -93,11 +97,34 @@ We also endeavor to make our pipelines have the following kinds of computational
 
 We are building pipelines with the above properties for the following disparate kinds of data:
 
-  - Nano: We have a somewhat antiquated [pipeline](https://www.frontiersin.org/articles/10.3389/fninf.2015.00020/full) for these data, though [sebastian seung's group](http://seunglab.org/) (amongst others) is currently building the state of the art work here.      
+  - Nano: We have a somewhat antiquated [pipeline](https://www.frontiersin.org/articles/10.3389/fninf.2015.00020/full) for these data, [synapse detection](https://arxiv.org/abs/1403.3724), and [color correction](https://arxiv.org/abs/1310.0041), though [sebastian seung's group](http://seunglab.org/) (amongst others) is currently building the state of the art work here.      
   - Micro: Our current (in progress) pipeline includes synapse detection [guillermo sapiro](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005493) (duke), and analysis of the resulting matrices using [meda](https://github.com/neurodata/meda).
-  - Meso: includes [terastitcher](http://abria.github.io/TeraStitcher/) for stitching the images together to form volumes and [ndreg](https://github.com/neurodata/ndreg) for image corrections and registration to an atlas
-  - Macro: [ndmg](https://github.com/neurodata/ndmg) processes s/f/d-MRI data to estimate and analyze connectomes (see [draft](https://www.biorxiv.org/content/early/2018/04/24/188706) for details).
+  - Meso: [terastitcher] includes for stitching the images together to form volumes and  for image corrections and LDDMM ([1](https://link.springer.com/chapter/10.1007/978-3-319-66182-7_32), [2](https://arxiv.org/abs/1612.00356), [3](https://arxiv.org/abs/1605.02060)) registration to an atlas.
+  - Macro: [ndmg](https://www.biorxiv.org/content/early/2018/04/24/188706) processes s/f/d-MRI data to estimate and analyze connectomes, and [science in the cloud](https://academic.oup.com/gigascience/article/6/5/1/3062833).
   
- ### Statistics
- #### Statistical Methods to Estimate, Test, and Model Neurobiology
+The code bases that we continue to develop and/or support include:
 
+- [ndmg](https://github.com/neurodata/ndmg) for multimodal connectome analysis
+- [ndreg](https://github.com/neurodata/ndreg) for whole cleared brain analysis
+- [terastitcher](http://abria.github.io/TeraStitcher/) for stitching 2D images into 3D volumes
+
+
+ ### Statistics
+ #### Statistical Methods to Estimate, Test, and Model Big Neurobiological Data
+ 
+ 
+- Testing: [Multiscale Graph Correlation](https://arxiv.org/abs/1609.05148), [theory of MGC](https://arxiv.org/abs/1710.09768), [applications to network topology vs vertex attributes](https://arxiv.org/abs/1703.10136)
+- [Supervised Manifold Learning](https://arxiv.org/abs/1709.01233)
+- Decision forests
+- Clustering: [fast k-means](https://arxiv.org/abs/1606.08905), [energy clustering](https://arxiv.org/abs/1710.09859), 
+- [Time-series analysis](https://arxiv.org/abs/1509.03927)
+- Scalable [graph analytics](https://arxiv.org/abs/1408.0500), [matrix multiplication](https://arxiv.org/abs/1602.02864), [eigendecomposition](https://arxiv.org/abs/1602.01421), [in R](https://arxiv.org/abs/1604.06414), 
+- Graph Statistics: [survey on latent structure models](https://arxiv.org/abs/1709.05454), as well ass graph matching [1](https://arxiv.org/abs/1112.5507) and [2](https://arxiv.org/abs/1311.6425), [vertex classification](https://arxiv.org/abs/1311.5954), mean graph estimation [1](https://arxiv.org/abs/1609.01672) and [2](https://arxiv.org/abs/1707.03487), joint embedding [1](https://arxiv.org/abs/1507.08376), [2](https://arxiv.org/abs/1703.03862), 
+
+
+And the code that we continue to develop and/or support includes:
+
+- [Randomer Forest](https://github.com/neurodata/R-RerF) for nonlinear classification and regression
+- [LOL](https://github.com/neurodata/LOL) for linear dimensionality reduction
+- [MGC](https://github.com/neurodata/mgc) for hypothesis testing
+- [graphstats](https://github.com/neurodata/graphstats) for graph statistics
