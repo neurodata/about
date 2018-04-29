@@ -1,10 +1,46 @@
-We have three primary research threads, each of them serving our connectome coding mission:
+[Intro]
 
-- [infrastructure](#infrastructure)
-- [pipelines](#pipelines)
-- [statistics](#statistics)
-- [neurobiology](#neurobiology)
-- [summary](#summary)
+Our research interests are perhaps best summarized by a matrix,  where the rows indicate the the kinds of challenges we face and the columns indicate the motivating scientific questions.
+
+
+
+| [neurobiology](#neurobiology) | nano | micro | meso | macro | angstro | multiscale |
+| --- | --- | --- | --- | --- | --- | --- |
+| [infrastructure](#infrastructure) | | | | | |
+| [pipelines](#pipelines) | | | | | |
+| [statistics](#statistics) | | | | | |
+
+
+
+### Neurobiology
+
+#### Nano
+
+- **nanoscale** electron microscopy [data](https://neurodata.io/data/)
+   - Goal: Estimate basic statisticas of ultrastructural neuroanatomy
+   - Collaborators:  [bobby](http://www.cell.com/cell/pdfExtended/S0092-8674(15)00824-7) (argonne), [albert cardona & marta zlatic](https://www.nature.com/articles/nature23455) (janelia), [davi bock](https://www.nature.com/articles/nature09802) (janelia).  
+
+- **microscale** superresolution light microscopy [data](https://neurodata.io/project/synaptomes/)
+  - Goal: Discovery synapses taxonomies across conditions
+  - Collaborators: stephen smith [1](http://www.jneurosci.org/content/35/14/5792.short), [2](https://www.frontiersin.org/articles/10.3389/fnana.2015.00100/full), [3](http://www.cell.com/neuron/abstract/S0896-6273(10)00766-X) (allen), rick huganir (jhu). 
+
+- **mesoscale** light microscopy [data]](https://neurodata.io/data/tomer15/)
+  - Goal: Decipher the principles of cellular resolution brain-wide neural circuits (cellular engrams)
+  - Collaborators: karl deisseroth [1](https://www.sciencedirect.com/science/article/pii/S009286741630558X), [2](https://www.sciencedirect.com/science/article/pii/S009286741500851X) (stanford) and michaela gallager (jhu). 
+
+- **macroscale** magnetic resonance imaging [data](https://neurodata.io/project/projectomes/)
+  - Goal: Reveal the connectome code, that is, the latent structure of brains determined by genetics and experience), at various resolutions, partially by mitigating batch effects across studies
+  - Collaborators: mike milham [healthy brain network](https://www.nature.com/articles/sdata2017181), [NKI enhanced](https://www.frontiersin.org/articles/10.3389/fnins.2012.00152/full) (child mind institute), bruce rosen's human lifespan data, and kent kiehl's [psychopathy](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.24028) data
+
+- **angstrocale** spatial transcriptomics
+  - Goal: Determine the diversity of cell types in the brain
+  - Collaborators: [ed lein](https://www.biorxiv.org/content/early/2018/01/19/239749) (allen), [mike hawrylycz](https://www.biorxiv.org/content/early/2017/12/06/229542) (allen)
+  
+- **multiscale** virtual zebrafish
+  - Goal: Build a biofidelic simulation of a zebrafish behaving naturally
+  - Collaborators: florian engert [1](https://www.nature.com/articles/nature11057), [2](https://www.nature.com/nmeth/journal/v12/n11/abs/nmeth.3581.html) (harvard), [jeff lichtman](https://www.nature.com/articles/nature22356) (harvard)
+
+
 
 ### Infrastructure
 #### Big NeuroData Storage, Management and Visualization
@@ -61,18 +97,10 @@ We also endeavor to make our pipelines have the following kinds of computational
 
 We are building pipelines with the above properties for the following disparate kinds of data:
 
-- **nanoscale** electron microscopy [data](https://neurodata.io/data/) 
-  - Experiments: collaborators (and papers of theirs) studying this kind of data include [bobby](http://www.cell.com/cell/pdfExtended/S0092-8674(15)00824-7) (argonne), [albert cardona & marta zlatic](https://www.nature.com/articles/nature23455) (janelia), [davi bock](https://www.nature.com/articles/nature09802) (janelia).  
-  - Pipeline: We have a somewhat antiquated [pipeline](https://www.frontiersin.org/articles/10.3389/fninf.2015.00020/full) for these data, though [sebastian seung's group](http://seunglab.org/) (amongst others) is currently building the state of the art work here.      
-- **microscale** superresolution light microscopy [data](https://neurodata.io/project/synaptomes/)
-  - Experiments: collaborators (and papers of theirs) studying this kind of data include: stephen smith [1](http://www.jneurosci.org/content/35/14/5792.short), [2](https://www.frontiersin.org/articles/10.3389/fnana.2015.00100/full), [3](http://www.cell.com/neuron/abstract/S0896-6273(10)00766-X) (allen), rick huganir (jhu). 
-  - Pipeline: Our current (in progress) pipeline includes synapse detection [guillermo sapiro](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005493) (duke), and analysis of the resulting matrices using [meda](https://github.com/neurodata/meda).
-- **mesoscale** light microscopy [data]](https://neurodata.io/data/tomer15/)
-  - Experiments: These data come either from karl deisseroth [1](https://www.sciencedirect.com/science/article/pii/S009286741630558X), [2](https://www.sciencedirect.com/science/article/pii/S009286741500851X) (stanford) or michaela gallager (jhu). 
-  - Pipeline: includes [terastitcher](http://abria.github.io/TeraStitcher/) for stitching the images together to form volumes and [ndreg](https://github.com/neurodata/ndreg) for image corrections and registration to an atlas
-- **macroscale** magnetic resonance imaging [data](https://neurodata.io/project/projectomes/)
-  - Experiments: Including both functional and diffusion magnetic resonance imaging, we are primarily collaborating with mike milham [healthy brain network](https://www.nature.com/articles/sdata2017181), [NKI enhanced](https://www.frontiersin.org/articles/10.3389/fnins.2012.00152/full) (child mind institute), bruce rosen's human lifespan data, and kent kiehl's [psychopathy](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.24028) data
-  - Pipeline: [ndmg](https://github.com/neurodata/ndmg) processes s/f/d-MRI data to estimate and analyze connectomes (see [draft](https://www.biorxiv.org/content/early/2018/04/24/188706) for details).
+  - Nano: We have a somewhat antiquated [pipeline](https://www.frontiersin.org/articles/10.3389/fninf.2015.00020/full) for these data, though [sebastian seung's group](http://seunglab.org/) (amongst others) is currently building the state of the art work here.      
+  - Micro: Our current (in progress) pipeline includes synapse detection [guillermo sapiro](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005493) (duke), and analysis of the resulting matrices using [meda](https://github.com/neurodata/meda).
+  - Meso: includes [terastitcher](http://abria.github.io/TeraStitcher/) for stitching the images together to form volumes and [ndreg](https://github.com/neurodata/ndreg) for image corrections and registration to an atlas
+  - Macro: [ndmg](https://github.com/neurodata/ndmg) processes s/f/d-MRI data to estimate and analyze connectomes (see [draft](https://www.biorxiv.org/content/early/2018/04/24/188706) for details).
   
  ### Statistics
  #### Statistical Methods to Estimate, Test, and Model Neurobiology
