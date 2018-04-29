@@ -30,6 +30,6 @@ the people in your chosen lab will be sitting around you for the next several ye
 
 ### How to Choose a Project within that Group
 
-i recommend choosing a project that is in the intersection of things that you are most excited about and the group you are in is most excited about. many faculty have webpages that list all the projects they are currently working on (for example, our [project page](projects.md). thus, you can detet rmine the kinds of projects that will fly in the group.  to determine what you are "most excited about", i recommend  taking the following steps (based on [The Power of Full Engagement](https://www.amazon.com/dp/B000FC0SWS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1):
+i recommend choosing a project that is in the intersection of things that you are most excited about and the group you are in is most excited about. many faculty have webpages that list all the projects they are currently working on (for example, our [project page](research.md). thus, you can detet rmine the kinds of projects that will fly in the group.  to determine what you are "most excited about", i recommend  taking the following steps (based on [The Power of Full Engagement](https://www.amazon.com/dp/B000FC0SWS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1):
 1. Try to determine your "[zone of genius](https://www.actualized.org/blueprint/zone-of-genius)"
 2. Determine a project in alignment with your zone of genius and the group's projects
