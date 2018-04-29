@@ -1,15 +1,11 @@
 ### Intro
 
-Our research projects are perhaps best summarized by a matrix,  where the rows indicate the the kinds of challenges we face and the columns indicate the spatial scales of experimental data available to us.
+Every research project we embark on is motivated by a [neurobiological](#neurobiology) question.  For each question, there are often various kinds of challenges, including: 
+- [infrastructure](#infrastructure), 
+- [pipelines](#pipelines), and 
+- [statistics](#statistics). 
 
-
-
-| [neurobiology](#neurobiology) | nano | micro | meso | macro | angstro | multiscale |
-| --- | --- | --- | --- | --- | --- | --- |
-| [infrastructure](#infrastructure) | | | | | |
-| [pipelines](#pipelines) | | | | | |
-| [statistics](#statistics) | | | | | |
-
+We therefore strive to build general tools in the service of answering these, and eventually other questions.  
 
 
 ### Neurobiology
@@ -57,9 +53,9 @@ For each project, the goals are to build tools that are:
 Any 3 of the above goals are mutually competing with one another, so we must make a number of trade-offs. 
 Given that caveat, we are developing and/or enhancing a number of open source tools, including:
 
-- [boss](https://github.com/neurodata/boss): a AWS deployed spatial database to store and manage large image volumes
-- [neuroglancer](https://github.com/neurodata/ndviz): a Web-service to visualize these data
-- [cloud_volume](https://github.com/seung-lab/cloud-volume): a client for reading and writing to Neuroglancer precomputed volumes on cloud services.
+- [boss](https://github.com/neurodata/boss): a AWS deployed spatial database to store and manage large image volumes, primarily currently developed by the Applied Physics Laboratory
+- [neuroglancer](https://github.com/neurodata/ndviz): a Web-service to visualize these data, primarily developed by Google
+- [cloud_volume](https://github.com/seung-lab/cloud-volume): a client for reading and writing to Neuroglancer precomputed volumes on cloud services, primarily developed by Sebastian Seung's lab.
 - [ndpush](https://github.com/neurodata/ndpush): a command-line interface to put data into our cloud storage
 - [ndpull](https://github.com/neurodata/ndpull): a command-line interface to pull data from our cloud storage
 - [ndweb](https://github.com/neurodata/ndwebtools): a Web-service that provides updated links to manage and visualize all the data in our cloud
@@ -96,10 +92,9 @@ We also endeavor to make our pipelines have the following kinds of computational
 
 We are building pipelines with the above properties for the following disparate kinds of data:
 
-  - Nano: We have a somewhat antiquated [pipeline](https://www.frontiersin.org/articles/10.3389/fninf.2015.00020/full) for these data, [synapse detection](https://arxiv.org/abs/1403.3724), and [color correction](https://arxiv.org/abs/1310.0041), though [sebastian seung's group](http://seunglab.org/) (amongst others) is currently building the state of the art work here.      
-  - Micro: Our current (in progress) pipeline includes synapse detection [guillermo sapiro](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005493) (duke), and analysis of the resulting matrices using [meda](https://github.com/neurodata/meda).
-  - Meso: [terastitcher](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-316) includes for stitching the images together to form volumes and  for image corrections and LDDMM ([1](https://link.springer.com/chapter/10.1007/978-3-319-66182-7_32), [2](https://arxiv.org/abs/1612.00356), [3](https://arxiv.org/abs/1605.02060)) registration to an atlas.
-  - Macro: [ndmg](https://www.biorxiv.org/content/early/2018/04/24/188706) processes s/f/d-MRI data to estimate and analyze connectomes, and [science in the cloud](https://academic.oup.com/gigascience/article/6/5/1/3062833).
+- Nano: We have a somewhat antiquated [pipeline](https://www.frontiersin.org/articles/10.3389/fninf.2015.00020/full) for these data, [synapse detection](https://arxiv.org/abs/1403.3724), and [color correction](https://arxiv.org/abs/1310.0041), though [sebastian seung's group](http://seunglab.org/) (amongst others) is currently building the state of the art work here.  - Micro: Our current (in progress) pipeline includes synapse detection [guillermo sapiro](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005493) (duke), and analysis of the resulting matrices using [meda](https://github.com/neurodata/meda).
+- Meso: [terastitcher](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-316) includes for stitching the images together to form volumes and  for image corrections and LDDMM ([1](https://link.springer.com/chapter/10.1007/978-3-319-66182-7_32), [2](https://arxiv.org/abs/1612.00356), [3](https://arxiv.org/abs/1605.02060)) registration to an atlas.
+- Macro: [ndmg](https://www.biorxiv.org/content/early/2018/04/24/188706) processes s/f/d-MRI data to estimate and analyze connectomes, and [science in the cloud](https://academic.oup.com/gigascience/article/6/5/1/3062833).
   
 The code bases that we continue to develop and/or support include:
 
