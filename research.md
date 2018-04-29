@@ -14,7 +14,6 @@ Our research projects are perhaps best summarized by a matrix,  where the rows i
 
 ### Neurobiology
 
-#### Nano
 
 - **nanoscale** electron microscopy [data](https://neurodata.io/data/)
    - Goal: Estimate basic statisticas of ultrastructural neuroanatomy
@@ -99,7 +98,7 @@ We are building pipelines with the above properties for the following disparate 
 
   - Nano: We have a somewhat antiquated [pipeline](https://www.frontiersin.org/articles/10.3389/fninf.2015.00020/full) for these data, [synapse detection](https://arxiv.org/abs/1403.3724), and [color correction](https://arxiv.org/abs/1310.0041), though [sebastian seung's group](http://seunglab.org/) (amongst others) is currently building the state of the art work here.      
   - Micro: Our current (in progress) pipeline includes synapse detection [guillermo sapiro](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005493) (duke), and analysis of the resulting matrices using [meda](https://github.com/neurodata/meda).
-  - Meso: [terastitcher] includes for stitching the images together to form volumes and  for image corrections and LDDMM ([1](https://link.springer.com/chapter/10.1007/978-3-319-66182-7_32), [2](https://arxiv.org/abs/1612.00356), [3](https://arxiv.org/abs/1605.02060)) registration to an atlas.
+  - Meso: [terastitcher](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-316) includes for stitching the images together to form volumes and  for image corrections and LDDMM ([1](https://link.springer.com/chapter/10.1007/978-3-319-66182-7_32), [2](https://arxiv.org/abs/1612.00356), [3](https://arxiv.org/abs/1605.02060)) registration to an atlas.
   - Macro: [ndmg](https://www.biorxiv.org/content/early/2018/04/24/188706) processes s/f/d-MRI data to estimate and analyze connectomes, and [science in the cloud](https://academic.oup.com/gigascience/article/6/5/1/3062833).
   
 The code bases that we continue to develop and/or support include:
