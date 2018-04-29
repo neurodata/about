@@ -109,7 +109,7 @@ The code bases that we continue to develop and/or support include:
  
 - Testing: [Multiscale Graph Correlation](https://arxiv.org/abs/1609.05148), [theory of MGC](https://arxiv.org/abs/1710.09768), [applications to network topology vs vertex attributes](https://arxiv.org/abs/1703.10136)
 - [Supervised Manifold Learning](https://arxiv.org/abs/1709.01233)
-- Decision forests
+- Decision forests: [ROFLMAO](https://epubs.siam.org/doi/abs/10.1137/1.9781611974973.56), and [RerF](https://arxiv.org/abs/1506.03410)
 - Clustering: [fast k-means](https://arxiv.org/abs/1606.08905), [energy clustering](https://arxiv.org/abs/1710.09859), 
 - [Time-series analysis](https://arxiv.org/abs/1509.03927)
 - Scalable [graph analytics](https://arxiv.org/abs/1408.0500), [matrix multiplication](https://arxiv.org/abs/1602.02864), [eigendecomposition](https://arxiv.org/abs/1602.01421), [in R](https://arxiv.org/abs/1604.06414), 
