@@ -2,7 +2,6 @@
 
 
 - [Mission](mission.md)
-- [Research](research.md)
 - [Projects](projects.md)
 - [Agreements](agreements.md)
 - [Calendar](https://calendar.google.com/calendar/embed?src=afr9t36kknt629jh4omun20n90%40group.calendar.google.com&ctz=America/New_York)
