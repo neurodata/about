@@ -16,7 +16,6 @@ We, the  NeuroData Family (NDF), each agree to all of the below commitments.  Th
  	1. [daily standup](#daily-standups) 
  	1. [impeccable agreements](#impeccable-agreements)
 1. [Agreements for some](#agreements-for-some)
- 	1. [monthly SIMPLEX report update](#monthly-simplex-reports) (for those working on SIMPLEX) 
  	1. [annual funding application](#annual-funding-application) (for senior trainnees) 
  	1. [jovo](#jovo-agreements)
  
@@ -124,13 +123,6 @@ To (1) keep us accountable to our daily goals, (2) improve our ability to assess
 We typically state the degree to which we completed our previous commitment, and state our new commitment of the day.
 We usually do them in slack at [#standup](https://neurodata.slack.com/messages/standup/) slack channel.  
 
-
-
-### Monthly Simplex Reports
-
-Our SIMPLEX grant requires that we submit month status reports (see  [overleaf](https://www.overleaf.com/read/nzsyvmykyvwn) for our up to date report).  
-The value to you is to show off how awesome you are to funders, so they start getting to know you, to practice writing short/concise reports on progress, and to have a record of our progress. 
-Anybody funded by SIMPLEX agrees to contribute to these monthly reports.
 
 
 
