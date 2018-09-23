@@ -66,12 +66,12 @@ We agree to be around the lab many working hours each day (which we define for c
 
 #### Weekly Lunches
 
-So we all get a more broad view of team activities, we agree to have 1 hour for informal talks, Q&A, and lunch most weeks that school is open. We agree to  **practice** before getting in front of 10-20 people, because every minute you speak you have implicted asked many other people to devote to you, so please be respectful of other people's time.
+So we all get a more broad view of team activities, we agree to have 1 hour for informal talks, Q&A, and lunch most weeks that school is open. We agree to  **practice** before getting in front of 10-20 people, because every minute you speak you have implicitly asked many other people to devote to you, so please be respectful of other people's time.
 
 
 #### Quarterly Checkins
 
-To facilitate more long-term/career guidance,  mutually providing [radically candid](http://firstround.com/review/on-receiving-and-truly-hearing-radical-candor/?ct=t(How_Does_Your_Leadership_Team_Rate_12_3_2015) feedback,
+To facilitate more long-term/career guidance,  mutually providing [radically candid](http://firstround.com/review/on-receiving-and-truly-hearing-radical-candor/?ct=t(How_Does_Your_Leadership_Team_Rate_12_3_2015)) feedback,
 check alignment between personal and team goals in terms of quarterly, annual, and career goals, and re-align as appropriate,
 we agree to have quarterly check-ins.  In these meetings will we re-assess quarterly goals in light of progress and preferences. They are documented in asana in the ["school" project](https://app.asana.com/0/443556333059318/505224365170807).
 
