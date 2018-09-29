@@ -107,7 +107,7 @@ On this team, we agree that all our agreements to be impeccable. When we make an
     - Full body yes is the goal, admittedly, the bar is high.
 3. Revise as soon as you realize you cannot meet all aspects of the original agreement.
     - You can renegotiate the scope, the form, or by when.
-    - No late tasks on asana, ever.
+    - For example, in our academic goals, we revise after we meet, to reflect our new expectations.
 4. Take 100% responsibility for your part.
     - If for whatever reason an agreement is not met, only take 100% responsibility.
     - Do not take responsibility for other people’s actions.
